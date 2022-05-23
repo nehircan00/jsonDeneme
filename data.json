@@ -1,0 +1,23 @@
+{
+    "ogrenciler":[
+    {
+        "ad":"Berresu",
+        "soyad":"Deniz",
+        "no":"9632",
+        "telNo":"5551112233"
+    },
+    {
+        "ad":"Sude",
+        "soyad":"Bahadır",
+        "no":"9667",
+        "telNo":"5551112233"
+    },
+    {
+        "ad":"Nesibe",
+        "soyad":"Temel",
+        "no":"8842",
+        "telNo":"5551112233"
+    }
+   
+]
+}
